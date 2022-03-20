@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjm1020)](https://solved.ac/anjm1020/)
 
