@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjm1020)](https://solved.ac/anjm1020/)
+
 <!--
 **anjm1020/anjm1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
