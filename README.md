@@ -1,6 +1,6 @@
 ### 👋
 
-## My Certification
+## Certification
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/72ac3938-6e96-43dd-9484-4429d5226fd8 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
